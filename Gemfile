@@ -71,3 +71,5 @@ gem 'simple_form'
 gem 'jquery-rails'
 # Official Sass port of Bootstrap 2 and 3.
 gem 'bootstrap-sass'
+# Slim templates generator for Rails 3, 4 and 5
+gem 'slim-rails'
