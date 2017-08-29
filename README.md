@@ -2,6 +2,12 @@
 
 This app is a wardrobe app. Users can add different items of clothing to an outfit to be saved for future reference. Written for my sister who spends an inordinate amount of time every morning matching her clothing and accessories.
 
+## ERD
+
+The app is planned with the following ERD:
+
+![ERD](/assets/images/GetDressedERD.png?raw=true "ERD")
+
 ## Getting Started
 
 1. Get the codebase
@@ -10,7 +16,7 @@ This app is a wardrobe app. Users can add different items of clothing to an outf
   https://github.com/ssoonsl/getdressed.git
   ```
 
-2.Install gem dependencies
+2. Install gem dependencies
 
   ```bash
   cd get_dressed
