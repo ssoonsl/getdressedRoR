@@ -1,5 +1,8 @@
 require 'rails_helper'
 
 RSpec.describe Dress, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+
+  it { should belong_to(:color) }
+  it { should belong_to(:occasion) }
+
 end
